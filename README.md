@@ -2,7 +2,6 @@
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning javascript and soon python
 - 💞️ I’m looking to collaborate on ML projects. 
-- 📫 How to reach me? 
 
 <!---ls
 davkaforce/davkaforce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
